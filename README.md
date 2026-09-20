@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="./assets/ML.png" width="180" alt="Machine Learning" title="Machine Learning"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -6,17 +6,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/nlp.png" width="180" alt="NLP" title="NLP"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/CNN.png" width="180" alt="Computer Vision" title="Computer Vision"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Transformers.png" width="180" alt="Transformers" title="Transformers"/>
+<!-- <img src="./assets/CNN.png" width="180" alt="Computer Vision" title="Computer Vision"/> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <img src="./assets/Transformers.png" width="180" alt="Transformers" title="Transformers"/> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
+<!--  -->
+<!-- <img src="./assets/PL.png" width="360" alt="Pure Logics" title="PureLogics"/> -->
 
-<img src="./assets/PL.png" width="360" alt="Pure Logics" title="PureLogics"/>
+<!-- <br/><br/> -->
 
-<br/><br/>
-
-<img src="./assets/rag.png" width="180" alt="RAG" title="RAG"/>
+<!-- <img src="./assets/rag.png" width="180" alt="RAG" title="RAG"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/Agentic_AI.png" width="180" alt="Agentic AI" title="Agentic AI"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,9 +26,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/fastapi.png" width="180" alt="FastAPI" title="FastAPI"/>
 
-</div>
+</div> --> -->
 
----
+<!-- --- -->
+<div align="center"> <table border="0" cellspacing="20" cellpadding="0"> <tr> <td align="center"><img src="./assets/ML.png" width="130" alt="Machine Learning" title="Machine Learning"/></td> <td align="center"><img src="./assets/DL.png" width="130" alt="Deep Learning" title="Deep Learning"/></td> <td align="center"><img src="./assets/nlp.png" width="130" alt="NLP" title="NLP"/></td> </tr> <tr> <td align="center"><img src="./assets/CNN.png" width="130" alt="Computer Vision" title="Computer Vision"/></td> <td align="center"><img src="./assets/PL.png" width="130" alt="Pure Logics" title="PureLogics"/></td> <td align="center"><img src="./assets/Transformers.png" width="130" alt="Transformers" title="Transformers"/></td> </tr> <tr> <td align="center"><img src="./assets/rag.png" width="130" alt="RAG" title="RAG"/></td> <td align="center"><img src="./assets/Agentic_AI.png" width="130" alt="Agentic AI" title="Agentic AI"/></td> <td align="center"><img src="./assets/crew_ai.png" width="130" alt="Crew AI" title="Crew AI"/></td> </tr> <tr> <td align="center" colspan="3"> <img src="./assets/hf.png" width="130" alt="HuggingFace" title="HuggingFace"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/fastapi.png" width="130" alt="FastAPI" title="FastAPI"/> </td> </tr> </table> </div>
+
+
 
 ## 📖 My Journey
 
