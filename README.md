@@ -1,34 +1,3 @@
-<!-- <div align="center">
-
-<img src="./assets/ML.png" width="180" alt="Machine Learning" title="Machine Learning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/DL.png" width="180" alt="Deep Learning" title="Deep Learning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nlp.png" width="180" alt="NLP" title="NLP"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="./assets/CNN.png" width="180" alt="Computer Vision" title="Computer Vision"/> -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="./assets/Transformers.png" width="180" alt="Transformers" title="Transformers"/> -->
-
-<!-- <br/><br/> -->
-<!--  -->
-<!-- <img src="./assets/PL.png" width="360" alt="Pure Logics" title="PureLogics"/> -->
-
-<!-- <br/><br/> -->
-
-<!-- <img src="./assets/rag.png" width="180" alt="RAG" title="RAG"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Agentic_AI.png" width="180" alt="Agentic AI" title="Agentic AI"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/crew_ai.png" width="180" alt="Crew AI" title="Crew AI"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/hf.png" width="180" alt="HuggingFace" title="HuggingFace"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/fastapi.png" width="180" alt="FastAPI" title="FastAPI"/>
-
-</div> --> -->
-
-<!-- --- -->
 <div align="center"> <table border="0" cellspacing="20" cellpadding="0"> <tr> <td align="center"><img src="./assets/ML.png" width="300" alt="Machine Learning" title="Machine Learning"/></td> <td align="center"><img src="./assets/DL.png" width="300" alt="Deep Learning" title="Deep Learning"/></td> <td align="center"><img src="./assets/nlp.png" width="250" alt="NLP" title="NLP"/></td> </tr> <tr> <td align="center"><img src="./assets/CNN.png" width="300" alt="Computer Vision" title="Computer Vision"/></td> <td align="center"><img src="./assets/PL.png" width="340" alt="Pure Logics" title="PureLogics"/></td> <td align="center"><img src="./assets/Transformers.png" width="300" alt="Transformers" title="Transformers"/></td> </tr> <tr> <td align="center"><img src="./assets/rag.png" width="300" alt="RAG" title="RAG"/></td> <td align="center"><img src="./assets/Agentic_AI.png" width="300" alt="Agentic AI" title="Agentic AI"/></td> <td align="center"><img src="./assets/crew_ai.png" width="300" alt="Crew AI" title="Crew AI"/></td> </tr> <tr> <td align="center" colspan="3"> <img src="./assets/hf.png" width="300" alt="HuggingFace" title="HuggingFace"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/fastapi.png" width="300" alt="FastAPI" title="FastAPI"/> </td> </tr> </table> </div>
 
 
@@ -128,6 +97,12 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 <td>LangGraph, tool/function calling, API integration, error handling</td>
 </tr>
 
+<tr>
+<td><b><a href="./Week_11_Tasks_Completed">11</a></b></td>
+<td>🔌 Model Context Protocol (MCP)</td>
+<td>Building an MCP server, tools & resources, MCP Inspector, Task Manager project</td>
+</tr>
+
 </table>
 
 ---
@@ -180,6 +155,7 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 - LangGraph
 - Tool/Function Calling
 - RAG Pipelines
+- MCP (Model Context Protocol)
 
 </td>
 <td valign="top" width="33%">
@@ -213,7 +189,8 @@ purelogics-ai-genai-bootcamp/
 ├── Week_07_Tasks_Completed/           → Transformers
 ├── Week_08_Tasks_Completed/           → Prompt Engineering & RAG
 ├── Week_09_Tasks_Completed/           → Generative AI (Vision)
-└── Week_10_Tasks_Completed/           → Agentic AI (LangGraph)
+├── Week_10_Tasks_Completed/           → Agentic AI (LangGraph)
+└── Week_11_Tasks_Completed/           → Model Context Protocol (MCP)
 ```
 
 Each week folder contains its own detailed `README.md` explaining the concepts covered, what was built, and the reasoning behind it — along with the original lab notebooks organized by day.
