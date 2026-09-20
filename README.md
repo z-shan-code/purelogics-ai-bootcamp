@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="./assets/PL.png" width="180" alt="Pure Logics" title="PureLogics"/>
+<img src="./assets/ML.png" width="180" alt="Machine Learning" title="Machine Learning"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/DL.png" width="180" alt="Deep Learning" title="Deep Learning"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/nlp.png" width="180" alt="NLP" title="NLP"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/CNN.png" width="180" alt="Computer Vision" title="Computer Vision"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Transformers.png" width="180" alt="Transformers" title="Transformers"/>
 
 <br/><br/>
 
-<img src="./assets/ML.png" width="65" alt="Machine Learning" title="Machine Learning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/DL.png" width="65" alt="Deep Learning" title="Deep Learning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/nlp.png" width="65" alt="NLP" title="NLP"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/CNN.png" width="65" alt="Computer Vision" title="Computer Vision"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Transformers.png" width="65" alt="Transformers" title="Transformers"/>
+<img src="./assets/PL.png" width="360" alt="Pure Logics" title="PureLogics"/>
 
 <br/><br/>
 
-<img src="./assets/rag.png" width="65" alt="RAG" title="RAG"/>
+<img src="./assets/rag.png" width="180" alt="RAG" title="RAG"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Agentic_AI.png" width="65" alt="Agentic AI" title="Agentic AI"/>
+<img src="./assets/Agentic_AI.png" width="180" alt="Agentic AI" title="Agentic AI"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/crew_ai.png" width="65" alt="Crew AI" title="Crew AI"/>
+<img src="./assets/crew_ai.png" width="180" alt="Crew AI" title="Crew AI"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/hf.png" width="65" alt="HuggingFace" title="HuggingFace"/>
+<img src="./assets/hf.png" width="180" alt="HuggingFace" title="HuggingFace"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/fastapi.png" width="65" alt="FastAPI" title="FastAPI"/>
+<img src="./assets/fastapi.png" width="180" alt="FastAPI" title="FastAPI"/>
 
 </div>
 
