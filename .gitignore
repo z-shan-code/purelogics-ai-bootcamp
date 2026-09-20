@@ -1,0 +1,15 @@
+# Secrets — never commit these
+.env
+*.env
+**/kaggle.json
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large/binary data, not meant for git
+**/chroma_db/
+*.zip
+**/data/MNIST/
+car_pred_model
