@@ -3,10 +3,18 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
+Every endpoint was tested live using Postman to confirm correct request handling and response formatting.
+
+### ➕ Create Task — `POST`
 ![alt text](image.png)
+### ✏️ Update Task — `PUT`
 ![alt text](image-1.png)
+### 📋 Get All Tasks — `GET`
 ![alt text](image-2.png)
+### 🗑️ Delete Task — `DELETE`
 ![alt text](image-3.png)
+
+
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
 
 > Week 2 marked the shift from "writing Python" to "working with real data" — and by the end of the week, from analyzing data to actually **serving** it through a live API. This is the week the pieces started connecting: clean data in, working software out.
