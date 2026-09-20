@@ -121,31 +121,51 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 </td>
 <td valign="top" width="33%">
 
-**Data & ML**
-- Pandas, NumPy
-- Seaborn, Matplotlib
-- scikit-learn
-- SVM, K-Means, PCA
+**Machine Learning Algorithms**
+- Linear Regression, Logistic Regression
+- Decision Trees, Random Forest
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- K-Means Clustering
+- Principal Component Analysis (PCA)
 
 </td>
 <td valign="top" width="33%">
 
-**Deep Learning**
-- TensorFlow, PyTorch
-- CNNs (VGG, ResNet)
-- YOLOv8, U-Net
-- Transformers
+**Deep Learning Algorithms & Architectures**
+- Artificial Neural Networks (ANN / MLP)
+- Deep Neural Networks (DNN)
+- Forward & Backward Propagation
+- Recurrent Neural Networks (RNN)
+- Autoencoders
+- AutoML
+- Transformer Architecture (Encoder-Decoder, Self-Attention)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-**Generative AI**
+**Computer Vision**
+- Convolutional Neural Networks (CNNs)
+- CNN Architectures — VGGNet, ResNet
+- Object Detection — YOLOv8, Bounding Boxes
+- Image Segmentation — U-Net
+- Image Classification
+- OpenCV
+
+</td>
+<td valign="top" width="33%">
+
+**NLP & LLMs**
+- Tokenization & Text Preprocessing
+- Attention Mechanism & Positional Encoding
+- Transformer-based Language Models
+- Hugging Face (pipelines, pretrained models)
 - Prompt Engineering
-- Stable Diffusion
-- Hugging Face
-- LLMs
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings & Semantic Search
 
 </td>
 <td valign="top" width="33%">
@@ -158,15 +178,19 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 - MCP (Model Context Protocol)
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 
 **Backend & Tools**
+- Flask
 - FastAPI
-- ChromaDB (Vector DB)
 - Postman
 - Git & GitHub
 
 </td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
