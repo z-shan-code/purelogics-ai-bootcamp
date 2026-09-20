@@ -4,6 +4,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
 
 > Week 2 marked the shift from "writing Python" to "working with real data" — and by the end of the week, from analyzing data to actually **serving** it through a live API. This is the week the pieces started connecting: clean data in, working software out.
