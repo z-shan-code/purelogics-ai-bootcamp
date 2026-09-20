@@ -52,7 +52,7 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 ## 🗺️ Table of Contents
 
 - [The Journey, Week by Week](#-the-journey-week-by-week)
-- [Skills and Technologies](#-skills--technologies)
+- [Skills and Technologies](#%EF%B8%8F-skills-and-technologies)
 - [Repository Structure](#-repository-structure)
 - [How to Explore This Repo](#-how-to-explore-this-repo)
 - [Let's Connect](#-lets-connect)
